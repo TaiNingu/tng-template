@@ -1,6 +1,6 @@
 # tng-template
 
-> A Vue.js project
+> 自用
 
 ## Build Setup
 
